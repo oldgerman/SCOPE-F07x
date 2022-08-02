@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\ODG-PROJECT\SCOPE_F07x\HardWare\AD_Project\SCOPE_F07x\Scope.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=scope-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=scope-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SCOPE_F07x.PrjPcb]
+   Generated File[Scope-RoundHoles.TXT]
+   Generated File[Scope-SlotHoles.TXT]
+   Generated File[Scope.LDP]
+   Generated File[Scope.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:42:08 On 2022/8/2
