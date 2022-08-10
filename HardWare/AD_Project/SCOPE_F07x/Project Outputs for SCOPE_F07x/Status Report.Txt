@@ -1,13 +1,23 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [SCOPE_F07x.PrjPcb]
-   Generated File[Scope-RoundHoles.TXT]
-   Generated File[Scope-SlotHoles.TXT]
-   Generated File[Scope.LDP]
-   Generated File[Scope.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [SCOPE_F07x.PrjPcb]
+   Generated File[Scope.GTO]
+   Generated File[Scope.GTP]
+   Generated File[Scope.GTS]
+   Generated File[Scope.GTL]
+   Generated File[Scope.GBL]
+   Generated File[Scope.GBS]
+   Generated File[Scope.GBP]
+   Generated File[Scope.GBO]
+   Generated File[Scope.GM1]
+   Generated File[Scope.GPT]
+   Generated File[Scope.GPB]
+   Generated File[Scope.RUL]
+   Generated File[Scope.EXTREP]
+   Generated File[Scope.REP]
 
 
-Files Generated   : 4
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 15:42:08 On 2022/8/2
+Finished Output Generation At 13:34:36 On 2022/8/10

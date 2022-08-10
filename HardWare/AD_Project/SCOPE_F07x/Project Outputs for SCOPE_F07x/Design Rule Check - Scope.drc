@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\ODG-PROJECT\SCOPE_F07x\HardWare\AD_Project\SCOPE_F07x\Scope.PcbDoc
-Date     : 2022/8/2
-Time     : 15:41:04
+Date     : 2022/8/10
+Time     : 13:27:40
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03

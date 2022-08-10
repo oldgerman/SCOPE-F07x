@@ -2,35 +2,14 @@
 FileName = Scope.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : Scope.GBO
+Generating : Mechanical 1
+      File : Scope.GM1
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D83
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Scope.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D68
-    D69
-    D70
-    D82
+    D13
 *************************************************************
 
 *************************************************************
@@ -73,6 +52,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : Scope.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D82
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : Scope.GTO
 
@@ -89,6 +83,64 @@ Used DCodes :
     D16
     D17
     D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Scope.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D77
+    D78
+    D79
+    D80
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Scope.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -137,24 +189,28 @@ Used DCodes :
     D78
     D79
     D80
+    D81
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : Scope.GM1
+Generating : Bottom Overlay
+      File : Scope.GBO
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D13
+    D15
+    D16
+    D17
+    D84
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Scope.GBP
+Generating : Bottom Solder
+      File : Scope.GBS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -162,48 +218,10 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D81
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Scope.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
     D68
     D69
     D70
+    D83
 *************************************************************
 
 *************************************************************
@@ -240,27 +258,10 @@ Used DCodes :
     D42
     D43
     D71
-    D76
     D77
     D78
     D79
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Scope.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D76
-    D77
-    D78
-    D79
-    D81
+    D80
 *************************************************************
 
 *************************************************************
@@ -276,13 +277,13 @@ Used DCodes :
     D14
     D15
     D17
-    D72
-    D74
-    D76
+    D73
+    D75
     D77
     D78
     D79
     D80
     D81
+    D82
 *************************************************************
 

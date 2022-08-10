@@ -1,0 +1,104 @@
+Export log for : Scope_F07x.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF220X220TOP1
+AddingPadStyle EF31X12TOP1
+AddingPadStyle P:EX24Y24D121
+AddingPadStyle EF42X55TOP1
+AddingPadStyle EF24X24TOP1
+AddingPadStyle EF35X35TOP1
+AddingPadStyle EF47X24TOP1
+AddingPadStyle EF31X35TOP1
+AddingPadStyle P:EX26Y26D281
+AddingPadStyle EF67X122TOP1
+AddingPadStyle EF59X12TOP1
+AddingPadStyle P:EX63Y39D241
+AddingPadStyle P:EX83Y39D241
+AddingPadStyle P:EX26Y26D261
+AddingPadStyle EF24X39TOP1
+AddingPadStyle EF28X11TOP1
+AddingPadStyle EF24X57TOP1
+AddingPadStyle EF14X50TOP1
+AddingPadStyle EF28X35TOP1
+AddingPadStyle EF16X118TOP1
+AddingPadStyle EF35X31TOP1
+AddingPadStyle EF8X21TOP1
+AddingPadStyle EF16X21TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX20Y20D121
+Adding TextStyle (Default)
+Adding TextStyle T:H16W5
+Adding TextStyle T:H16W10
+Adding TextStyle T:H60W10
+Adding TextStyle T:H71W5
+Adding TextStyle T:H68W10
+Adding TextStyle T:H80W10
+Adding TextStyle T:H39W8
+Adding TextStyle T:H50W3
+Adding PatternDef UFQFPN-48_7X7X0P55MM_VIA_1
+Adding PatternDef R0805_1
+Adding PatternDef C0402_1
+Adding PatternDef ODG_LOGO_1
+Adding PatternDef FER0603_1
+Adding PatternDef R0402_1
+Adding PatternDef FER0402_1
+Adding PatternDef TACTILE_SWITCH_SMD_4.6x1.82x3.5mm_1TS003B_1
+Adding PatternDef 2.54MM_FEMALE_1x12_180H_1
+Adding PatternDef Type-C-TOP_1
+Adding PatternDef MICROCHIP SOT-23-6 M6_1
+Adding PatternDef ANALOG TSOT-23-5 UJ-5_1
+Adding PatternDef LGA-16-3X3_1
+Adding PatternDef MICROCHIP SOT-23-5 OT_1
+Adding PatternDef ANALOG DEV SOIC-8 R8_1
+Adding PatternDef ON SEMI TSSOP-14 948G_1
+Adding PatternDef R0603_1
+Adding PatternDef DIODES SOT-323-3_1
+Adding PatternDef LCD-240X240-1.54INCH_FLUSH_FRONT_1
+Adding PatternDef FER0603_2
+Adding PatternDef FUSE0603_0.5MM_1
+Adding PatternDef SOD-323_1
+Adding PatternDef DFN2510-10_SOT1165-1_1
+Adding CompDef UFQFPN-48_7X7X0P55MM_VIA_1
+Adding CompDef R0805_1
+Adding CompDef C0402_1
+Adding CompDef ODG_LOGO_1
+Adding CompDef FER0603_1
+Adding CompDef R0402_1
+Adding CompDef FER0402_1
+Adding CompDef TACTILE_SWITCH_SMD_4.6x1.82x3.5mm_1TS003B_1
+Adding CompDef 2.54MM_FEMALE_1x12_180H_1
+Adding CompDef Type-C-TOP_1
+Adding CompDef MICROCHIP SOT-23-6 M6_1
+Adding CompDef ANALOG TSOT-23-5 UJ-5_1
+Adding CompDef LGA-16-3X3_1
+Adding CompDef MICROCHIP SOT-23-5 OT_1
+Adding CompDef ANALOG DEV SOIC-8 R8_1
+Adding CompDef ON SEMI TSSOP-14 948G_1
+Adding CompDef R0603_1
+Adding CompDef DIODES SOT-323-3_1
+Adding CompDef LCD-240X240-1.54INCH_FLUSH_FRONT_1
+Adding CompDef FER0603_2
+Adding CompDef FUSE0603_0.5MM_1
+Adding CompDef SOD-323_1
+Adding CompDef DFN2510-10_SOT1165-1_1
+      Warning: Unexpected Pad Object Found On Layer TopLayer.
+      Warning: Unexpected Pad Object Found On Layer TopLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Free Text Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog
