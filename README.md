@@ -98,13 +98,27 @@ OPA4197其中的两个运放作为双路直流电压源，电流范围±30mA，�
 
 ### 其他&补充
 
+**一些目录说明**
+
 - [AD工程](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/AD_Project)：提供可编辑的源文件，软件版本2019，PDF的原理图也位于此目录
 
 - [SW工程](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/SW_Project)：提供可编辑的源文件，软件版本2017
 
-- [外壳3D打印模型](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/3D_Print)：STL格式提供，打印一套外壳的话，其中SW_x3_Both_Sides_1需要打两个
+- [外壳3D打印模型](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/3D_Print)：STL格式提供，打印一套外壳的话，其中`SW_x3_Both_Sides_1.STL`需要打两个
 - [BOM](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/BOM/bom)：浏览器可直接打开的交互式BOM
 - [Gerber](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/Gerber)：整个压缩包就是
+
+**按键操作**
+
+- KEY_1: 单击切换功能页面
+- KEY_2: 单击切换子菜单光标
+- KEY_R: 减少值或向左移动
+- KEY_O: 确认或取消
+- KEY_L: 增大值或向右移动
+
+**USB DFU**
+
+需要在未上电时按住KEY_O不放，插电进入，推荐使用STM32CubeProgrammer的USB模式烧录
 
 ### Acknowledgments
 
