@@ -113,6 +113,7 @@ OPA4197其中的两个运放作为双路直流电压源，电流范围±30mA，�
 - [外壳3D打印模型](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/3D_Print)：STL格式提供，打印一套外壳的话，其中`SW_x3_Both_Sides_1.STL`需要打两个
 - [BOM](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/BOM/bom)：浏览器可直接打开的交互式BOM
 - [Gerber](https://github.com/oldgerman/SCOPE-F07x/tree/master/HardWare/Gerber)：整个压缩包就是
+- [朋友们制作的成品展示](https://github.com/oldgerman/SCOPE-F07x/tree/master/朋友们自驾的成品)
 
 **按键操作**
 
